@@ -56,6 +56,8 @@ function draw() {
   stroke(255);
   point(0,0);
   rotate(90);
+  textSize(16);
+  text('edited by: Panchanand Jha', 0, 140)
 
 }
 
